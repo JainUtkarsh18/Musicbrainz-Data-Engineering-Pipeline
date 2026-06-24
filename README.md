@@ -9,7 +9,19 @@ The project demonstrates end-to-end data engineering concepts including API data
 ## Kaggle Notebook
 
 The original notebook is available on [Kaggle](https://www.kaggle.com/code/utkarshjain76/from-musicbrainz-to-analytics-a-metadata-pipeline).
+
+
 Full generated dataset is also available on [Kaggle](https://www.kaggle.com/datasets/utkarshjain76/musicbrainz-metadata-dataset).
+
+---
+
+## About MusicBrainz
+
+[MusicBrainz](https://musicbrainz.org/) is an open music encyclopedia that collects music metadata and makes it available to the public.
+
+MusicBrainz aims to be an ultimate source of music information by allowing anyone to contribute and releasing the data under open licenses, also the universal lingua franca for music by providing a reliable and unambiguous form of music identification, enabling both people and machines to have meaningful conversations about music.
+
+Like Wikipedia, MusicBrainz is maintained by a global community of users.
 
 ---
 
