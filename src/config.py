@@ -1,8 +1,3 @@
-from src.config import *
-# -----------------------------
-# 3. Configuration
-# -----------------------------
-
 # Kaggle output directory
 OUTPUT_DIR = Path("/kaggle/working")
 
