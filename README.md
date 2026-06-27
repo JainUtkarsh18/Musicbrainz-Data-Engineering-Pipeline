@@ -8,10 +8,10 @@ The project demonstrates end-to-end data engineering concepts including API data
 
 ## Kaggle Notebook
 
-The original notebook is available on [Kaggle](https://www.kaggle.com/code/utkarshjain76/from-musicbrainz-to-analytics-a-metadata-pipeline). There are two versions of the notebook available based on the more descriptive and interactive format.
+The original notebook is available on [Kaggle](https://www.kaggle.com/code/utkarshjain76/from-musicbrainz-to-analytics-a-metadata-pipeline). There are two versions of the notebook available, based on a more descriptive and interactive format.
 
 
-Full generated dataset is also available on [Kaggle](https://www.kaggle.com/datasets/utkarshjain76/musicbrainz-metadata-dataset).
+A fully generated dataset is also available on [Kaggle](https://www.kaggle.com/datasets/utkarshjain76/musicbrainz-metadata-dataset). There are two versions of the dataset available, one is in Excel format for easy understanding of the generated dataset, and the other is in CSV format for machine use.
 
 ---
 
