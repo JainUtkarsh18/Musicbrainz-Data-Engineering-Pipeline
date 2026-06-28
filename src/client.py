@@ -5,7 +5,7 @@ class MusicBrainzClient:
     - rate limiting
     - retry handling
     - cached responses
-    """
+    """ 
 
     def __init__(self) -> None:
         self.session = requests_cache.CachedSession(
