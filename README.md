@@ -71,7 +71,7 @@ Data Cleaning
 Transformation
         │
         ▼
-EDA
+Exploratory Data Analysis (EDA)
         │
         ▼
 Visualization
